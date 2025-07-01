@@ -18,3 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Для связи со мной: ##
 [Кликай сюда!](https://www.google.com/?hl=ru)
+
+## Языки: ##
+- English (beginner)
+- Russian 
