@@ -6,7 +6,7 @@
 
 **Контакты:** 
 - +342423423423
-- [Email](https://www.instagram.com/krz.dm/)
+- [INST](https://www.instagram.com/krz.dm/)
 
 ## Навыки: ## 
 - Html
