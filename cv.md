@@ -6,7 +6,7 @@
 
 **Контакты:** 
 - +342423423423
-- [Email](rin27091999@mail.ru)
+- [Email](https://www.instagram.com/krz.dm/)
 
 ## Навыки: ## 
 - Html
